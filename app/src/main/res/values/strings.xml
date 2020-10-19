@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">clicker</string>
+    <string name="money">$0.00</string>
+    <string name="upgrade1">grain of sand $5.00</string>
+    <string name="upgrade2">Scarab \n $20.00</string>
+    <string name="upgrade3">Ancient Brick \n $120.00</string>
+    <string name="upgrade4">Mummy Foot \n $700.00</string>
+    <string name="upgrade5">Important Scepter \n $3000.00</string>
+    <string name="upgrade6">Ra Autograph \n $12000.00</string>
+</resources>
